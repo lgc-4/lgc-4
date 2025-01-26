@@ -13,7 +13,7 @@ I'm lazy so everything in this file is written by ChatGPT. The information is ac
 ## Projects
 Most of my work is on non-public projects. However, I am working on [Crowd Chord](https://crowdchord.com), which is available to the public.
 
-<img src="assets/crowdchord.png" alt="Crowd Chord Logo" width="50" height="50">
-
 Crowd Chord lets communities create collaborative Spotify playlists by voting songs in and out.
 The project is currently closed source, but I plan to open source it in the future.
+
+<img src="assets/crowdchord.png" alt="Crowd Chord Logo" width="50" height="50">
